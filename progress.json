@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:56:29.234Z",
+  "generated_at": "2026-11-11T17:22:34.294Z",
   "items": {
     "math:14": {
       "kind": "math",
@@ -48,6 +48,19 @@
       "last_pushed_at": "2026-11-10T19:56:28.785Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1820": {
+      "kind": "problem",
+      "id": "1820",
+      "title": "Recursive Least Squares for Simple Linear Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1820",
+      "path": "problems/1820-recursive-least-squares-for-simple-linear-regression",
+      "first_solved_at": "2026-11-11T17:22:33.910Z",
+      "last_pushed_at": "2026-11-11T17:22:33.910Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
