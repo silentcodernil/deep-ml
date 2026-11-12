@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 8 problems · 0 labs · 5 math
+**14** solved · 9 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-12 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-12 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-11-11 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-11-10 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
