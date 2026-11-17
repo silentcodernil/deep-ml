@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:49:49.001Z",
+  "generated_at": "2026-11-17T17:59:06.972Z",
   "items": {
     "math:14": {
       "kind": "math",
@@ -196,6 +196,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-17T17:49:49.722Z",
       "last_pushed_at": "2026-11-17T17:49:49.722Z"
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-11-17T17:59:07.763Z",
+      "last_pushed_at": "2026-11-17T17:59:07.763Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
