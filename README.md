@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 13 problems · 0 labs · 6 math
+**20** solved · 14 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-11 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-12 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-10 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-18 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Math
 
